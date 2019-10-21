@@ -1,0 +1,146 @@
+////////////////////////////////////////////////////////////////////////////////////HTML
+<table id="table" style="width:100%">
+  <tr>
+    <th class="tg-fuxe">Name</th>
+    <th class="tg-0pky">ID<br></th>
+    <th class="tg-0lax">Assignment 1<br></th>
+    <th class="tg-0lax">Assignment 2</th>
+    <th class="tg-0lax">Assignment 3</th>
+    <th class="tg-0lax">Assignment 4</th>
+    <th class="tg-0lax">Assignment 5</th>
+    <th class="tg-0lax">Final Grade 0-100</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Henry</td>
+    <td class="tg-0lax">163454</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td class="tg-0lax" style="text-align:center">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">George</td>
+    <td class="tg-0lax">178354</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td class="tg-0lax" style="text-align:center">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Anna</td>
+    <td class="tg-0lax">457366</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td class="tg-0lax" style="text-align:center">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Hannah</td>
+    <td class="tg-0lax">235277</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td class="tg-0lax" style="text-align:center">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sam<br></td>
+    <td class="tg-0lax">353455</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td class="tg-0lax" style="text-align:center">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Alex</td>
+    <td class="tg-0lax">345345</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td class="tg-0lax" style="text-align:center">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sarah</td>
+    <td class="tg-0lax">163465</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td class="tg-0lax" style="text-align:center">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">John</td>
+    <td class="tg-0lax">172534</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td class="tg-0lax" style="text-align:center">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Paddy</td>
+    <td class="tg-0lax">173467</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td class="tg-0lax" style="text-align:center">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Samantha</td>
+    <td class="tg-0lax">184465</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td contenteditable="true" style="text-align:center">-</td>
+    <td class="tg-0lax" style="text-align:center">-</td>
+  </tr>
+</table>
+<button id="button" class="calc">Calculate grade</button>
+////////////////////////////////////////////////////////////////////////////////////JAVASCRIPT
+function button(){
+ var table = document.getElementById("table");
+ var rows = table.rows;
+ for (var i=1;i< rows.length;i++){
+   var cells = rows[i].cells;
+   var sum = 0;
+   for (var j=2;j<(cells.length-1);j++){
+      var cell = cells[j];
+      var addme = parseInt(cell.innerHTML);
+      if(!isNaN(addme)) {       
+         sum += addme;
+      }
+   }
+ var average = sum / 5;
+ rows[i].cells[7].innerHTML = "<td>" + Math.round(average) + "</td>";
+ }
+ ////////////////////////////////////////////////////////////////////////////////////CSS
+ <style type="text/css">
+.tg.tg-0lax{
+  text-align:left;
+  vertical-align:top
+  }
+.calc{
+  background-color:#C7A8FF;
+  color:#782DFF;
+  padding:10px 15px;
+  text-align:center;
+  display:inline-block;
+  font-size:14px;
+  }</style>
+}document.getElementById('button').onclick = button;
